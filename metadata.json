@@ -1,0 +1,6 @@
+{
+  "name": "¿Quién Quiere Ser Millonario? — Situaciones en Español",
+  "description": "Интерактивная игра-викторина на испанском языке с русским переводом в стиле «Кто хочет стать миллионером»: 30 ситуаций в путешествиях, отелях и ресторанах с подсказками и звуковыми эффектами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
